@@ -1,0 +1,37 @@
+[33mcommit 4e70ee3c69887d44a7d65d248f2a415b081af6e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpatch/README.md[m[33m)[m
+Author: Rodion <rodionb4649@gmail.com>
+Date:   Sat Jun 1 20:04:21 2024 +0300
+
+    Revert "hw: clean readme"
+    
+    This reverts commit 719a12d1d6ed77bfa6cf0cbb401218f176c08a4c.
+
+[33mcommit 719a12d1d6ed77bfa6cf0cbb401218f176c08a4c[m
+Author: Rodion <rodionb4649@gmail.com>
+Date:   Sat Jun 1 20:04:09 2024 +0300
+
+    hw: clean readme
+
+[33mcommit c87bc3d606df829eed10aec193868df981fd70e1[m[33m ([m[1;31morigin/patch/README.md[m[33m)[m
+Author: Rodion <rodionb4649@gmail.com>
+Date:   Sat Jun 1 20:02:03 2024 +0300
+
+    hw: update readme
+
+[33mcommit 69055c3028a61335b667e895c5f372a29d1d0a62[m
+Author: Rodion <rodionb4649@gmail.com>
+Date:   Sat Jun 1 18:48:45 2024 +0300
+
+    a
+
+[33mcommit feeb931c66d5a4ffd31efed9ddbb0e01e5cd53e4[m
+Author: BuganSuyemin <55956947+BuganSuyemin@users.noreply.github.com>
+Date:   Sat Jun 1 18:35:22 2024 +0300
+
+    hw: update readme
+
+[33mcommit ae038dcd2c971311a6f9be0619ed025004fb0961[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: RodionBon <rodionb4649@gmail.com>
+Date:   Sat Jun 1 18:07:58 2024 +0300
+
+    Initial commit
